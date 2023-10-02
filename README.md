@@ -1,9 +1,9 @@
-<pre align="center">
-  _________  _____ __  __       ____       _ _     
- |__  / ___|| ____|  \/  |     | __ )  ___| | |___ 
-   / /\___ \|  _| | |\/| |_____|  _ \ / _ \ | / __|
-  / /_ ___) | |___| |  | |_____| |_) |  __/ | \__ \
- /____|____/|_____|_|  |_|     |____/ \___|_|_|___/
+<pre align="center">                                                                  
+ mmmmmm  mmmm  mmmmmm m    m        mmmmm         ""#    ""#          
+     #" #"   " #      ##  ##        #    #  mmm     #      #     mmm  
+   m#   "#mmm  #mmmmm # ## #        #mmmm" #"  #    #      #    #   " 
+  m"        "# #      # "" #  """   #    # #""""    #      #     """m 
+ ##mmmm "mmm#" #mmmmm #    #        #mmmm" "#mm"    "mm    "mm  "mmm" 
 </pre>
 
 <h5 align="right"> A program that manages bells in my school...</h1>
